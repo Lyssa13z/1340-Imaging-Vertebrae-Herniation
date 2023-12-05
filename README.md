@@ -44,11 +44,16 @@
   This project aims to automate the classification of vertebral disk herniations in MRI scans using machine learning, enhancing diagnostic processes in healthcare. By training a model with   labeled MRI images, it enables quicker and potentially more consistent identification of herniation severity levels, aiding radiologists in assessments. Validating the model's accuracy     through statistical analyses ensures its reliability, showcasing the potential for technology to streamline medical imaging analysis and improve patient care.
 
 
+
+
 [3] How users can get started with the project:
 
   To convert Images from .ima to .jpeg: (*file name*)
+  
   To crop, classify, and add data to a set folder for machine training use: (*file name*) 
   
+
+
 
 
 [4] Who contributes to the project:
