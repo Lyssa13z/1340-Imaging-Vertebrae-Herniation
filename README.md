@@ -5,16 +5,18 @@
   This project was for a Pitt bio-imaging class BIOENG 1340. This project uses matlab, ITK-Snap, and Teachable Machine (machine learning software), to determin the severity of vertebrea      discs herniations in MRI scans of patients.  
 
   The data we used is MRI scans from: https://data.mendeley.com/datasets/k57fr854j2/2 
+  
   The original research paper that uses this data set: https://doi.org/10.3390/diagnostics13040663 
+  
   The labels from the radiologist that clasify the patients severity: https://data.mendeley.com/datasets/zbf6b4pttk/2
 
-  The steps we took for this project:
-    1) We selected T2 Sagital slice 9 MRI Scans of each patient
-    2) For each MRI Scan we assessed the labeling from the radiologist to classify within 1 of 3 classes:
-         a) Class I - No Herniation
-         b) Class II - Mild Herniation
-         c) Class III - Severe Herniation
-    3) We then converted these images from .ima files to .jpg files, using python, so that they would be compatable with the machine learning software
+    The steps we took for this project:
+      1) We selected T2 Sagital slice 9 MRI Scans of each patient
+      2) For each MRI Scan we assessed the labeling from the radiologist to classify within 1 of 3 classes:
+           a) Class I - No Herniation
+           b) Class II - Mild Herniation
+           c) Class III - Severe Herniation
+      3) We then converted these images from .ima files to .jpg files, using python, so that they would be compatable with the machine learning software
 
     For the Machine Learning:
       4) We then used matlab (*file name*) to crop the MRI scans to where the herniation of each image is and to classify each image into a seperate folder 
