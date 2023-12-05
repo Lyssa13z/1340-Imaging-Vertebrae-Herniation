@@ -53,7 +53,7 @@
 
 [4] Who contributes to the project:
 
-Hannah P,  Rutuja K, Brianna M,, Natasha M, Alyssa Z
+Hannah Parks,  Rutuja Kulkarni, Brianna Malik,, Natasha Mody, Alyssa Zito
 
 
 
