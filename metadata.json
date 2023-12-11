@@ -1,1 +1,0 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.4.7","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2023-12-04T02:35:27.361Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["No Herniation (Cropped)","Mild Herniation (Cropped)","Severe Herniation (Cropped)"],"imageSize":224}
